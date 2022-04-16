@@ -5,7 +5,7 @@ Custom Arch Installation and Config Script
 
 ## Obtaining The Repository
 - Update mirrorlist and install git: `pacman -Sy git`
-- Get the script: `git clone https://gitlab.com/Nelox/arch-installer`
+- Get the script: `git clone https://gitlab.com/Jkiller909/arch-installer`
 ______________________________________________________________________________
 
 ## How to use
